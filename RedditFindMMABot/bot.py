@@ -3,7 +3,7 @@ import praw
 reddit = praw.Reddit("!FindMMABot")
 
 #fill in the subreddit where you would like the bot to run
-#do not inclue the r/
+#do not include the r/
 subreddit = reddit.subreddit("example_subreddit")
 
 while (True):
