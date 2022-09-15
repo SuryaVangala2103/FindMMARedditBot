@@ -1,6 +1,7 @@
 import praw
 
-reddit = praw.Reddit("!FindMMABot")
+#Insert name of your bot here 
+reddit = praw.Reddit("example_name")
 
 #fill in the subreddit where you would like the bot to run
 #do not include the r/
