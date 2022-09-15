@@ -8,7 +8,7 @@ Steps:
 3) Go to praw.ini and fill in name of bot inside brackets on line 29. Add the client id, client secret, username of bot account, and password of bot account (lines 31 - 34 of praw.ini) as well
 4) Go to bot.py and add the name of the bot (line 4) and the subreddit where you want to call the bot (line 8, do not include the r/) 
 5) Run bot.py via a terminal
-6) Go to subreddit of choice and make a comment calling your bot and the name of a subreddit (for instance: !FindMMABot r/all)
+6) Go to subreddit you chose earlier (line 8 of bot.py) and make a comment calling your bot and the name of a subreddit (for instance: !FindMMABot r/all)
 7) Watch as bot finds isntances of MMA content in given subreddit 
 8) When done with bot, close it in the terminal where you ran it. The program will run infinitely unless you manually close it. 
 
