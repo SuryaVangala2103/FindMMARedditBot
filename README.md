@@ -11,3 +11,6 @@ Steps:
 6) Go to subreddit of choice and make a comment calling your bot and the name of a subreddit (for instance: !FindMMABot r/all)
 7) Watch as bot finds isntances of MMA content in given subreddit 
 8) When done with bot, close it in the terminal where you ran it. The program will run infinitely unless you manually close it. 
+
+Note: 
+Please ignore the gitlink folder DogBreedCNN. The VCS system on my IDE was having problems. This should be an empty folder and is not relevant to this bot. 
